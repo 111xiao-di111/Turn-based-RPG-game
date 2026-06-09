@@ -3,8 +3,7 @@ Version 1.1 log:
 -added gold and shop
 -enemy now drop gold
 -added armors
--the game still have many bugs, I will fix it soon :D
+-Many bugs still here, gonna fix them soon
 
-Version 1.2 sneek:
--introduce to artifacts
--enemy will have a small chance of dropping armors and artifacts, skills
+Version 1.2
+bugs fixed and attack animation is removed for now, will be add again in the future, accesory and more is going to be delay... I sincerely apologize, since I dont have enough skills to do that yet, im developing while learning, thanks for understanding 
